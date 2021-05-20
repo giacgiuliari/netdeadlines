@@ -3,8 +3,8 @@ title: Networking Conference Deadlines # (Maintained by @albertgranalcoz)
 description: Countdowns to top Networking conference deadlines
 author: Albert Gran Alcoz
 
-domain: "netdeadlines.com"
-baseurl: ""
+domain: "giacgiuliari.github.io"
+baseurl: "netdeadlines/"
 
 twitter_username: albertgran
 twitter_hashtag: networking
