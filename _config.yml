@@ -4,7 +4,7 @@ description: Countdowns to top Networking conference deadlines
 author: Albert Gran Alcoz
 
 domain: "giacgiuliari.github.io"
-baseurl: "netdeadlines/"
+baseurl: "/netdeadlines"
 
 twitter_username: albertgran
 twitter_hashtag: networking
